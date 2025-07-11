@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+.git
+.gitignore
+*.md
+dist
+build
+.env
+local_config/
+service_account.json
+# Add any other files/folders not needed in the container
